@@ -9,7 +9,7 @@ import requests
 import sqlite3
 import sys
 
-api_key = 'PUT_YOUR_OWN_VIRUSTOTAL_API_HERE'
+api_key = 'PUT_YOUR_OWN_VIRUSTOTAL_API_KEY_HERE'
 scan_url = 'https://www.virustotal.com/vtapi/v2/file/scan'                          # URL to scan the file
 rep_url = 'https://www.virustotal.com/vtapi/v2/file/report'                         # URL to get the reports for the uploaded file
 
