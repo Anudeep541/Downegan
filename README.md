@@ -1,5 +1,6 @@
 # Downegan
-A software that watches Firefox browser for new downloads and scan them automatically using VirusTotal API
+A software that watches Firefox browser for new downloads and scan them automatically using VirusTotal API. See Wiki for visual representation
+
 
 ---> Download and keep the both programs in same folder 
 ---> Get your own API key from Virus Total website and paste that in filescan.py program
